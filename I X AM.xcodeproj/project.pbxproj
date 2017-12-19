@@ -7,12 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6049FC141FDA41C800623EF6 /* fourtestScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6049FC131FDA41C800623EF6 /* fourtestScreenViewController.swift */; };
+		6049FC161FDA42B300623EF6 /* fiveTestScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6049FC151FDA42B300623EF6 /* fiveTestScreenViewController.swift */; };
+		6049FC181FDA448C00623EF6 /* sixTestScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6049FC171FDA448C00623EF6 /* sixTestScreenViewController.swift */; };
+		6049FC1A1FDA44F800623EF6 /* seventestScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6049FC191FDA44F800623EF6 /* seventestScreenViewController.swift */; };
+		6049FC1C1FDA45F300623EF6 /* eightTestScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6049FC1B1FDA45F300623EF6 /* eightTestScreenViewController.swift */; };
+		6049FC1E1FDA46AB00623EF6 /* nineTestScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6049FC1D1FDA46AB00623EF6 /* nineTestScreenViewController.swift */; };
+		6049FC201FDA4AE200623EF6 /* firstTestScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6049FC1F1FDA4AE200623EF6 /* firstTestScreenViewController.swift */; };
+		6049FC221FDAE82300623EF6 /* threeTestScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6049FC211FDAE82300623EF6 /* threeTestScreenViewController.swift */; };
 		60BBCC521FDA1E4C004393E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BBCC511FDA1E4C004393E0 /* AppDelegate.swift */; };
 		60BBCC541FDA1E4C004393E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BBCC531FDA1E4C004393E0 /* ViewController.swift */; };
 		60BBCC571FDA1E4C004393E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60BBCC551FDA1E4C004393E0 /* Main.storyboard */; };
 		60BBCC591FDA1E4C004393E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60BBCC581FDA1E4C004393E0 /* Assets.xcassets */; };
 		60BBCC5C1FDA1E4C004393E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60BBCC5A1FDA1E4C004393E0 /* LaunchScreen.storyboard */; };
 		60BBCC671FDA1E4C004393E0 /* I_X_AMTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BBCC661FDA1E4C004393E0 /* I_X_AMTests.swift */; };
+		60BBCC761FDA275E004393E0 /* parametersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BBCC751FDA275E004393E0 /* parametersViewController.swift */; };
+		60BBCC781FDA2BD9004393E0 /* mainScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BBCC771FDA2BD9004393E0 /* mainScreenViewController.swift */; };
+		60BBCC7C1FDA315A004393E0 /* finalScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BBCC7B1FDA315A004393E0 /* finalScreenViewController.swift */; };
+		60BBCC7E1FDA3FD7004393E0 /* twoTestScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60BBCC7D1FDA3FD7004393E0 /* twoTestScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +38,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6049FC131FDA41C800623EF6 /* fourtestScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fourtestScreenViewController.swift; sourceTree = "<group>"; };
+		6049FC151FDA42B300623EF6 /* fiveTestScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fiveTestScreenViewController.swift; sourceTree = "<group>"; };
+		6049FC171FDA448C00623EF6 /* sixTestScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sixTestScreenViewController.swift; sourceTree = "<group>"; };
+		6049FC191FDA44F800623EF6 /* seventestScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seventestScreenViewController.swift; sourceTree = "<group>"; };
+		6049FC1B1FDA45F300623EF6 /* eightTestScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eightTestScreenViewController.swift; sourceTree = "<group>"; };
+		6049FC1D1FDA46AB00623EF6 /* nineTestScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nineTestScreenViewController.swift; sourceTree = "<group>"; };
+		6049FC1F1FDA4AE200623EF6 /* firstTestScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstTestScreenViewController.swift; sourceTree = "<group>"; };
+		6049FC211FDAE82300623EF6 /* threeTestScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = threeTestScreenViewController.swift; sourceTree = "<group>"; };
 		60BBCC4E1FDA1E4C004393E0 /* I X AM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I X AM.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		60BBCC511FDA1E4C004393E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		60BBCC531FDA1E4C004393E0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -36,6 +56,10 @@
 		60BBCC621FDA1E4C004393E0 /* I X AMTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I X AMTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		60BBCC661FDA1E4C004393E0 /* I_X_AMTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_X_AMTests.swift; sourceTree = "<group>"; };
 		60BBCC681FDA1E4C004393E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		60BBCC751FDA275E004393E0 /* parametersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parametersViewController.swift; sourceTree = "<group>"; };
+		60BBCC771FDA2BD9004393E0 /* mainScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainScreenViewController.swift; sourceTree = "<group>"; };
+		60BBCC7B1FDA315A004393E0 /* finalScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = finalScreenViewController.swift; sourceTree = "<group>"; };
+		60BBCC7D1FDA3FD7004393E0 /* twoTestScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twoTestScreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +104,18 @@
 				60BBCC511FDA1E4C004393E0 /* AppDelegate.swift */,
 				60BBCC531FDA1E4C004393E0 /* ViewController.swift */,
 				60BBCC551FDA1E4C004393E0 /* Main.storyboard */,
+				6049FC1F1FDA4AE200623EF6 /* firstTestScreenViewController.swift */,
+				60BBCC7D1FDA3FD7004393E0 /* twoTestScreenViewController.swift */,
+				6049FC211FDAE82300623EF6 /* threeTestScreenViewController.swift */,
+				6049FC131FDA41C800623EF6 /* fourtestScreenViewController.swift */,
+				6049FC151FDA42B300623EF6 /* fiveTestScreenViewController.swift */,
+				6049FC171FDA448C00623EF6 /* sixTestScreenViewController.swift */,
+				6049FC191FDA44F800623EF6 /* seventestScreenViewController.swift */,
+				6049FC1D1FDA46AB00623EF6 /* nineTestScreenViewController.swift */,
+				6049FC1B1FDA45F300623EF6 /* eightTestScreenViewController.swift */,
+				60BBCC7B1FDA315A004393E0 /* finalScreenViewController.swift */,
+				60BBCC771FDA2BD9004393E0 /* mainScreenViewController.swift */,
+				60BBCC751FDA275E004393E0 /* parametersViewController.swift */,
 				60BBCC581FDA1E4C004393E0 /* Assets.xcassets */,
 				60BBCC5A1FDA1E4C004393E0 /* LaunchScreen.storyboard */,
 				60BBCC5D1FDA1E4C004393E0 /* Info.plist */,
@@ -199,8 +235,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6049FC1C1FDA45F300623EF6 /* eightTestScreenViewController.swift in Sources */,
+				6049FC201FDA4AE200623EF6 /* firstTestScreenViewController.swift in Sources */,
+				60BBCC761FDA275E004393E0 /* parametersViewController.swift in Sources */,
+				6049FC221FDAE82300623EF6 /* threeTestScreenViewController.swift in Sources */,
+				60BBCC7E1FDA3FD7004393E0 /* twoTestScreenViewController.swift in Sources */,
+				6049FC1A1FDA44F800623EF6 /* seventestScreenViewController.swift in Sources */,
+				60BBCC7C1FDA315A004393E0 /* finalScreenViewController.swift in Sources */,
+				60BBCC781FDA2BD9004393E0 /* mainScreenViewController.swift in Sources */,
 				60BBCC541FDA1E4C004393E0 /* ViewController.swift in Sources */,
+				6049FC161FDA42B300623EF6 /* fiveTestScreenViewController.swift in Sources */,
+				6049FC181FDA448C00623EF6 /* sixTestScreenViewController.swift in Sources */,
 				60BBCC521FDA1E4C004393E0 /* AppDelegate.swift in Sources */,
+				6049FC1E1FDA46AB00623EF6 /* nineTestScreenViewController.swift in Sources */,
+				6049FC141FDA41C800623EF6 /* fourtestScreenViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -354,12 +402,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = YVHLUAASQB;
 				INFOPLIST_FILE = "I X AM/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Andrew-Ahr.I-X-AM";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -368,12 +418,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = YVHLUAASQB;
 				INFOPLIST_FILE = "I X AM/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Andrew-Ahr.I-X-AM";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
